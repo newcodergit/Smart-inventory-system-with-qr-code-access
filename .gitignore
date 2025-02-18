@@ -1,0 +1,17 @@
+
+target/
+bin/
+
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+.DS_Store
+Thumbs.db
+
+
+*.properties
+*.log
